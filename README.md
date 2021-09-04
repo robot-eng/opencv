@@ -11,3 +11,11 @@ openTracking
 <img src="img/Voice.gif" width="320" height="200">
 
 -----------------------------------------------------------Other-----------------------------------------------------------------
+img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
