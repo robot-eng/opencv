@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 face_cascade = cv2.CascadeClassifier(
-    cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
+    cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')#cv2.data.haarcascades for opencv 4+
 eye_cascade = cv2.CascadeClassifier(
     cv2.data.haarcascades + 'haarcascade_eye.xml')
 
