@@ -3,7 +3,7 @@
 ###### In folder object_detection want file `yolov3.weight` download from https://pjreddie.com/darknet/yolo/
 #### FaceMesh
 <p align="center">
-<img src="img/Screenshot%20(101).png" width="320" height="320">
+<img src="img/Face%20M.png" width="320" height="280">
 </p>
 POSE
 <p align="center">
