@@ -16,7 +16,7 @@ object_detection
 </p>
 openTracking
 
-> controlVoice
+###### controlVoice
 <p align="center">
 <img src="img/Voice.gif" width="320" height="200">
 </p>
@@ -29,7 +29,5 @@ openTracking
 <p align="center">
 <img src="img/face_eye.png" width="320" height="200">
 </p>
-```bash 
-controlVoice
-```
+
 ## C++ Coming Soon
