@@ -9,6 +9,10 @@ POSE
 <p align="center">
 <img src="img/POSE.PNG" width="320" height="320">
 </p>
+object_de
+<p align="center">
+<img src="img/object.png" width="320" height="200">
+</p>
 openTracking
 
 ###### controlVoice
