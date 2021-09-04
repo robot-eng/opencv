@@ -8,3 +8,4 @@ POSE
 openTracking
 
 ###### controlVoice
+<img src="img/Voice.gif" width="320" height="200">
