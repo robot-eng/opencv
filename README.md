@@ -21,9 +21,12 @@ openTracking
 <img src="img/Voice.gif" width="320" height="200">
 </p>
 
+###### Snake Game
+<p align="center">
+<img src="snakegame/g.gif" width="320" height="200">
+</p>
+
 <div align="center">-----------------------------------------------Other---------------------------------------------------</div>
-
-
 
 ### ME
 #### face_eye (for opencv 4 +)
