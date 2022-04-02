@@ -1,6 +1,6 @@
 # opencv
 ## PYTHON
-###### credit : https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A
+###### credit : https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A (controlVoice, imags size, Snake Game)
 ###### In folder object_detection want file `yolov3.weight` download from https://pjreddie.com/darknet/yolo/
 #### FaceMesh
 <p align="center">
