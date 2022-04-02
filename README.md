@@ -2,6 +2,10 @@
 ## PYTHON
 ###### credit : https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A (controlVoice, imags size, Snake Game)
 ###### In folder object_detection want file `yolov3.weight` download from https://pjreddie.com/darknet/yolo/
+#### In the requirements.txt file used to install the necessary libraries at once. : ในไฟล์ requirements.txt ใช้เพื่อการติดตั้งไลบาร์ลี่ที่จำเป็นในทีเดียว
+```
+pip install -r requirements.txt
+```
 #### FaceMesh
 <p align="center">
 <img src="img/Face%20M.png" width="320" height="280">
