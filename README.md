@@ -2,7 +2,8 @@
 ## PYTHON
 ###### credit : https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A (controlVoice, imags size, Snake Game)
 ###### In folder object_detection want file `yolov3.weight` download from https://pjreddie.com/darknet/yolo/
-#### In the requirements.txt file used to install the necessary libraries at once. : ในไฟล์ requirements.txt ใช้เพื่อการติดตั้งไลบาร์ลี่ที่จำเป็นในทีเดียว
+#### In the requirements.txt file It is used to install the necessary libraries at one time that the owner use work. : 
+ในไฟล์ข้อกำหนด.txt ใช้สำหรับติดตั้งไลบรารีที่จำเป็นในครั้งเดียวที่ผมได้ใช้งาน.
 ```
 pip install -r requirements.txt
 ```
