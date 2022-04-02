@@ -51,6 +51,11 @@ openTracking
 <img src="Real-Time-Object-Measurement/ob.gif" >
 </p>
 
+###### Auto-Measuring
+<p align="center">
+<img src="Auto-Measuring/auto.gif" >
+</p>
+
 #### face_eye (for opencv 4 +)
 ###### want download : https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 ######       and     : https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
