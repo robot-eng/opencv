@@ -13,7 +13,7 @@ future>=0.18.2
 grab-screen>=0.0.13
 idna>=2.6
 image>=1.5.33
-imutil>=0.5.4
+imutil
 keyboard>= 0.13.5
 matplotlib>=3.5.1
 mediapipe>=0.8.9.1
