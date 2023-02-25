@@ -1,9 +1,8 @@
 # opencv
 ## PYTHON
-###### credit : https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A (controlVoice, imags size, Snake Game)
+> **credit** : https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A (controlVoice, imags size, Snake Game)
 ###### In folder object_detection want file `yolov3.weight` download from https://pjreddie.com/darknet/yolo/
-#### In the requirements.txt file It is used to install the necessary libraries at one time that the owner use work. : 
-ใน requirements.txt ใช้สำหรับติดตั้งไลบรารีที่จำเป็นในครั้งเดียวที่ผมได้ใช้งาน.
+###### In the requirements.txt file It is used to install the necessary libraries at one time that the owner use work. : ใน requirements.txt ใช้สำหรับติดตั้งไลบรารีที่จำเป็นในการใช้งาน
 ```
 pip install -r requirements.txt
 ```
@@ -11,62 +10,62 @@ pip install -r requirements.txt
 <p align="center">
 <img src="img/Face%20M.png" width="320" height="280">
 </p>
-POSE
+
+#### POSE
 <p align="center">
 <img src="img/POSE.PNG" width="320" height="320">
 </p>
-object_detection
+
+#### object_detection
 <p align="center">
 <img src="img/object.png" width="320" height="200">
 </p>
-openTracking
 
-###### controlVoice
+#### openTracking
+
+#### controlVoice
 <p align="center">
 <img src="img/Voice.gif" width="320" height="200">
 </p>
 
-###### Snake Game
+#### Snake Game
 <p align="center">
 <img src="snakegame/g.gif" width="320" height="200">
 </p>
 
-###### Virtual Keyboard
+#### Virtual Keyboard
 <p align="center">
 <img src="keyboard/key.gif" width="320" height="240">
 </p>
 
-###### imags size
+#### imags size
 <p align="center">
 <img src="imags size/test.gif" width="350" height="240">
 </p>
 
-###### color Tracking
+#### color Tracking
 <p align="center">
 <img src="color Tracking/ca.gif" width="350" height="240"><img src="color Tracking/ca1.gif" width="350" height="240">
 </p>
 
-###### Virtual mouse
+#### Virtual mouse
 <p align="center">
 <img src="vmouse/mouse.gif" >
 </p>
 
-###### Real-Time-Object-Measurement
+#### Real-Time-Object-Measurement
 <p align="center">
 <img src="Real-Time-Object-Measurement/ob.gif" >
 </p>
 
-###### Auto-Measuring
+#### Auto-Measuring
 <p align="center">
 <img src="Auto-Measuring/auto.gif" >
 </p>
 
 #### face_eye (for opencv 4 +)
-###### want download : https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
-######       and     : https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
-<p align="center">
-<img src="img/face_eye.png" width="320" height="200">
-</p>
+> want download : https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+> and     : https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
 
 <div align="center">-----------------------------------------------Other---------------------------------------------------</div>
 
