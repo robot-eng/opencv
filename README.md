@@ -21,8 +21,6 @@ pip install -r requirements.txt
 <img src="img/object.png" width="320" height="200">
 </p>
 
-#### openTracking
-
 #### controlVoice
 <p align="center">
 <img src="img/Voice.gif" width="320" height="200">
